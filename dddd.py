@@ -18,3 +18,5 @@ while True:
     datas = result.get("datas")
     for i in datas:
         print("机器人说：",i["value"])
+        
+
